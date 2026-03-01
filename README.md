@@ -4,3 +4,4 @@ game
 height
 Start
 quick
+sol
