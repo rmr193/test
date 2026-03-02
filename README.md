@@ -5,3 +5,4 @@ height
 Start
 quick
 sol
+exam
