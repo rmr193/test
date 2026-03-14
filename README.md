@@ -17,3 +17,4 @@ asdf;lkj
 game
 yt
 vacation 
+Binance 
