@@ -18,3 +18,4 @@ game
 yt
 vacation 
 Binance 
+sukhoi
